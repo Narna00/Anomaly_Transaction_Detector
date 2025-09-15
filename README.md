@@ -87,6 +87,6 @@ MIT License.
 ## Contact
 For questions, improvements, or collaboration, feel free to reach out or open an issue on the repository.
 
-Name: Prince Amoako Atta
-EMail: princeamoakoatta22@gmail.com
-LinkedIn: <a href="https://www.linkedin.com/in/narna00/">Narna00</a>
+#### Name: Prince Amoako Atta
+#### EMail: princeamoakoatta22@gmail.com
+#### LinkedIn: <a href="https://www.linkedin.com/in/narna00/">Narna00</a>
